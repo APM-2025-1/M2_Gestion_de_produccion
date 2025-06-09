@@ -28,21 +28,23 @@
 <details>
     <summary>🗂️ Tabla de Contenido</summary>
 
-- [Estudio de Mercado](#estudio-de-mercado)
-  - [Tamaño y Crecimiento del Mercado](#tamaño-y-crecimiento-del-mercado)
-  - [Estimación de volumen de producción para Mep Mep Riders](#estimación-de-volumen-de-producción-para-mep-mep-riders)
-- [Productos Seleccionados](#productos-seleccionados)
-- [Referencias](#referencias)
+- [1. 📊 Estudio de Mercado](#1--estudio-de-mercado)
+  - [1.1. 💹 Tamaño y Crecimiento del Mercado](#11--tamaño-y-crecimiento-del-mercado)
+  - [1.2. 🎛️ Estimación de volumen de producción para Mep Mep Riders](#12-️-estimación-de-volumen-de-producción-para-mep-mep-riders)
+- [2. 🛵 Productos Seleccionados](#2--productos-seleccionados)
+- [3. 🛂 VSM Antes de automatización](#3--vsm-antes-de-automatización)
+- [4. 🛂 VSM Despues de Automatización](#4--vsm-despues-de-automatización)
+- [5. 🗃️ Referencias](#5-️-referencias)
 
 
 
 </details>
 
-# Estudio de Mercado
+# 1. 📊 Estudio de Mercado
 
 El mercado de las patinetas eléctricas en Colombia ha experimentado un crecimiento notable en los últimos años, posicionándose como una alternativa clave en la movilidad sostenible. La aceptación de estos vehículos se debe principalmente a su rentabilidad en comparación con las motocicletas y su eficiencia para recorridos de distancias cortas a medias (10 a 45 kilómetros).
 
-## Tamaño y Crecimiento del Mercado
+## 1.1. 💹 Tamaño y Crecimiento del Mercado
 
 
 - Volumen Anual: Se estima que el mercado colombiano de patinetas eléctricas tiene un tamaño anual aproximado de 35,000 a 40,000 unidades.
@@ -53,7 +55,7 @@ El mercado de las patinetas eléctricas en Colombia ha experimentado un crecimie
 
 - Factores Clave de Compra: Los consumidores valoran la autonomía de la batería, la velocidad, los materiales de construcción, el peso, el sistema de suspensión y el precio. Además, factores como la distancia a recorrer, las inclinaciones del terreno y el peso del usuario son determinantes al momento de la elección.
 
-## Estimación de volumen de producción para Mep Mep Riders
+## 1.2. 🎛️ Estimación de volumen de producción para Mep Mep Riders
 El significativo crecimiento y el tamaño considerable del mercado colombiano de patinetas eléctricas ofrecen una ventana de oportunidad favorable para nuevas empresas como Mep Mep Riders.
 
 De acuerdo a lo investigado, se asume un volumen del mercado actual para 2025 de aproximademente 40,000 unidades anuales. 
@@ -62,7 +64,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 
 
 
-# Productos Seleccionados
+# 2. 🛵 Productos Seleccionados
 
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
@@ -217,7 +219,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 </table>
 
 
-# VSM Antes de automatización
+# 3. 🛂 VSM Antes de automatización
 Los productos selccionados, actualmente se ensamblan uno depues de otro en una linea secuancial. Los modulos destacados son el ensamble del chasis, el ensamble del manurio, el ensamble del sillín y el ensamble de llantas. Estas ultimas vienen depresurizadas por los que deben inflarse. posetriormente esta el modulo de ensamble completo donde se unen todos lo ensambles ya mencionados, junto a elementos que no pertenecen a un ensamble como tal, como son las luces y algunos cables.
 ![VSM Antes de automatización](Figs/VSM/VSM-Antes.png)
 
@@ -226,14 +228,14 @@ Esta planta se veria de esta manera.
 ![Technomatix Planta](Figs/Technomatix/Prev/PlantaPrev.png)
 
 
-# VSM Despues de Automatización
+# 4. 🛂 VSM Despues de Automatización
 Nosotros proponemos automatizar el transporte de los elementos por medio de cintas transporatadoras. Tambien se propone automatizar el suproceso de inserción del sillín con el soporte del chasis. FInalmente usar una celda robotica para el llenaod de aire de las llantas.
 Nosotros proponemos entonces una planta paralelizada. con un VSM como el que se muestra a continuación.
 ![VSM Antes de automatización](Figs/VSM/VSM-Despues.png)
 Que se veria de esta forma
 ![Technomatix Planta](Figs/Technomatix/Post/PlantaPost.png)
 
-# Referencias
+# 5. 🗃️ Referencias
 
 [1] “Patinetas eléctricas: El auge de la movilidad sostenible.” Liebre Naranja. [Online]. Available: https://liebrenaranja.com/patinetas-electricas-incremento-148/
   
