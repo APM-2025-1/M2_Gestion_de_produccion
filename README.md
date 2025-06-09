@@ -217,6 +217,22 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 </table>
 
 
+# VSM Antes de automatización
+Los productos selccionados, actualmente se ensamblan uno depues de otro en una linea secuancial. Los modulos destacados son el ensamble del chasis, el ensamble del manurio, el ensamble del sillín y el ensamble de llantas. Estas ultimas vienen depresurizadas por los que deben inflarse. posetriormente esta el modulo de ensamble completo donde se unen todos lo ensambles ya mencionados, junto a elementos que no pertenecen a un ensamble como tal, como son las luces y algunos cables.
+![VSM Antes de automatización](Figs/VSM/VSM-Antes.png)
+
+Esta planta se veria de esta manera.
+
+![Technomatix Planta](Figs/Technomatix/Prev/PlantaPrev.png)
+
+
+# VSM Despues de Automatización
+Nosotros proponemos automatizar el transporte de los elementos por medio de cintas transporatadoras. Tambien se propone automatizar el suproceso de inserción del sillín con el soporte del chasis. FInalmente usar una celda robotica para el llenaod de aire de las llantas.
+Nosotros proponemos entonces una planta paralelizada. con un VSM como el que se muestra a continuación.
+![VSM Antes de automatización](Figs/VSM/VSM-Despues.png)
+Que se veria de esta forma
+![Technomatix Planta](Figs/Technomatix/Post/PlantaPost.png)
+
 # Referencias
 
 [1] “Patinetas eléctricas: El auge de la movilidad sostenible.” Liebre Naranja. [Online]. Available: https://liebrenaranja.com/patinetas-electricas-incremento-148/
