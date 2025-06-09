@@ -29,20 +29,40 @@
     <summary>🗂️ Tabla de Contenido</summary>
 
 - [Estudio de Mercado](#estudio-de-mercado)
+  - [Tamaño y Crecimiento del Mercado](#tamaño-y-crecimiento-del-mercado)
+  - [Estimación de volumen de producción para Mep Mep Riders](#estimación-de-volumen-de-producción-para-mep-mep-riders)
 - [Productos Seleccionados](#productos-seleccionados)
+- [Referencias](#referencias)
 
 
 
 </details>
 
-## Estudio de Mercado
+# Estudio de Mercado
+
+El mercado de las patinetas eléctricas en Colombia ha experimentado un crecimiento notable en los últimos años, posicionándose como una alternativa clave en la movilidad sostenible. La aceptación de estos vehículos se debe principalmente a su rentabilidad en comparación con las motocicletas y su eficiencia para recorridos de distancias cortas a medias (10 a 45 kilómetros).
+
+## Tamaño y Crecimiento del Mercado
+
+
+- Volumen Anual: Se estima que el mercado colombiano de patinetas eléctricas tiene un tamaño anual aproximado de 35,000 a 40,000 unidades.
+  - Según El Tiempo, se venden alrededor de 35,000 unidades anualmente (reporte a 2024).
+  - Fenalco informó la venta de 18,491 patinetas eléctricas en 2022, lo que representó el 47% de su cuota de mercado en ese segmento con seis empresas afiliadas (aproximadamente 6,87% por empresa) (Fuente: Liebrenaranja). Esto sugiere un mercado total de aproximadamente 39,342 unidades solo para patinetas en 2022 (18491 / 0.47).
+
+- Concentración Geográfica: Las ventas se concentran principalmente en grandes ciudades como Bogotá y sus municipios aledaños, Medellín, Cartagena, Cali, Pereira, Ibagué y Barranquilla, lo que indica dónde se encuentran los principales focos de demanda.
+
+- Factores Clave de Compra: Los consumidores valoran la autonomía de la batería, la velocidad, los materiales de construcción, el peso, el sistema de suspensión y el precio. Además, factores como la distancia a recorrer, las inclinaciones del terreno y el peso del usuario son determinantes al momento de la elección.
+
+## Estimación de volumen de producción para Mep Mep Riders
+El significativo crecimiento y el tamaño considerable del mercado colombiano de patinetas eléctricas ofrecen una ventana de oportunidad favorable para nuevas empresas como Mep Mep Riders.
+
+De acuerdo a lo investigado, se asume un volumen del mercado actual para 2025 de aproximademente 40,000 unidades anuales. 
+
+Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeramente superior a las empresas actuales (aproximadamente 6,87% por empresa). Para ello, en el primer año se espera una participación del 5% con un crecimiento lineal del 1% anual durante 5 años.
 
 
 
-
-
-
-## Productos Seleccionados
+# Productos Seleccionados
 
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
@@ -194,3 +214,8 @@
 </table>
 
 
+# Referencias
+
+Patinetas eléctricas: su incremento de 148% revela el mercado en Colombia de Liebre Naranja. (https://liebrenaranja.com/patinetas-electricas-incremento-148/)
+Guía definitiva para escoger una patineta eléctrica: todo lo que debe saber de El Tiempo. (https://www.eltiempo.com/tecnosfera/novedades-tecnologia/guia-definitiva-para-escoger-una-patineta-electrica-todo-lo-que-debe-saber-3400383)
+Retos para que la movilidad sostenible se proyecte como una verdadera línea de transición energética en el país de Fenalco. (https://www.fenalco.com.co/blog/noticias-10/retos-para-que-la-movilidad-sostenible-se-proyecte-como-una-verdadera-linea-de-transicion-energetica-en-el-pais-2241)
