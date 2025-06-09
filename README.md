@@ -46,8 +46,8 @@ El mercado de las patinetas eléctricas en Colombia ha experimentado un crecimie
 
 
 - Volumen Anual: Se estima que el mercado colombiano de patinetas eléctricas tiene un tamaño anual aproximado de 35,000 a 40,000 unidades.
-  - Según El Tiempo, se venden alrededor de 35,000 unidades anualmente (reporte a 2024).
-  - Fenalco informó la venta de 18,491 patinetas eléctricas en 2022, lo que representó el 47% de su cuota de mercado en ese segmento con seis empresas afiliadas (aproximadamente 6,87% por empresa) (Fuente: Liebrenaranja). Esto sugiere un mercado total de aproximadamente 39,342 unidades solo para patinetas en 2022 (18491 / 0.47).
+  - Según El Tiempo [2], se venden alrededor de 35,000 unidades anualmente (reporte a 2024).
+  - Fenalco [1, 3] informó la venta de 18,491 patinetas eléctricas en 2022, lo que representó el 47% de su cuota de mercado en ese segmento con seis empresas afiliadas (aproximadamente 6,87% por empresa) (Fuente: Liebrenaranja). Esto sugiere un mercado total de aproximadamente 39,342 unidades solo para patinetas en 2022 (18491 / 0.47).
 
 - Concentración Geográfica: Las ventas se concentran principalmente en grandes ciudades como Bogotá y sus municipios aledaños, Medellín, Cartagena, Cali, Pereira, Ibagué y Barranquilla, lo que indica dónde se encuentran los principales focos de demanda.
 
@@ -67,7 +67,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
         <tr>
-            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Lite Velox 800W</th>
+            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Lite Velox 800W [4]</th>
         </tr>
     </thead>
     <tbody>
@@ -89,6 +89,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
                     <li><strong>Capacidad de Carga:</strong> Hasta 110 kg</li>
                     <li><strong>Peso:</strong> 33 kg</li>
                     <li><strong>Dimensiones:</strong> Largo 1160 mm, Ancho 605 mm, Altura 1000 mm</li>
+                    <li><strong>Precio:</strong>$3,999,000</li>
                 </ul>
             </td>
             <td style="padding: 10px; vertical-align: top; width:34%;">
@@ -116,7 +117,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
         <tr>
-            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Trial California 1600W</th>
+            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Trial California 1600W [5] </th>
         </tr>
     </thead>
     <tbody>
@@ -139,6 +140,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
                     <li><strong>Capacidad de Carga:</strong> Hasta 100 kg</li>
                     <li><strong>Peso:</strong> 60 kg</li>
                     <li><strong>Dimensiones:</strong> Largo 1320 mm, Ancho 620 mm, Altura 950 mm</li>
+                    <li><strong>Precio:</strong>$7,499,000</li>
                 </ul>
             </td>
             <td style="padding: 10px; vertical-align: top; width:34%;">
@@ -166,7 +168,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
         <tr>
-            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Ultra California 2000W</th>
+            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Ultra California 2000W [6] </th>
         </tr>
     </thead>
     <tbody>
@@ -189,6 +191,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
                     <li><strong>Capacidad de Carga:</strong> Hasta 120 kg</li>
                     <li><strong>Peso:</strong> 65 kg</li>
                     <li><strong>Dimensiones:</strong> Largo 1320 mm, Ancho 620 mm, Altura 950 mm</li>
+                    <li><strong>Precio:</strong> $7,999,000 </li>
                 </ul>
             </td>
             <td style="padding: 10px; vertical-align: top; width:34%;">
@@ -216,6 +219,15 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 
 # Referencias
 
-Patinetas eléctricas: su incremento de 148% revela el mercado en Colombia de Liebre Naranja. (https://liebrenaranja.com/patinetas-electricas-incremento-148/)
-Guía definitiva para escoger una patineta eléctrica: todo lo que debe saber de El Tiempo. (https://www.eltiempo.com/tecnosfera/novedades-tecnologia/guia-definitiva-para-escoger-una-patineta-electrica-todo-lo-que-debe-saber-3400383)
-Retos para que la movilidad sostenible se proyecte como una verdadera línea de transición energética en el país de Fenalco. (https://www.fenalco.com.co/blog/noticias-10/retos-para-que-la-movilidad-sostenible-se-proyecte-como-una-verdadera-linea-de-transicion-energetica-en-el-pais-2241)
+[1] “Patinetas eléctricas: El auge de la movilidad sostenible.” Liebre Naranja. [Online]. Available: https://liebrenaranja.com/patinetas-electricas-incremento-148/
+  
+[2] "Guía definitiva para escoger una patineta eléctrica: todo lo que debe saber". El Tiempo. [Online]. Available: https://www.eltiempo.com/tecnosfera/novedades-tecnologia/guia-definitiva-para-escoger-una-patineta-electrica-todo-lo-que-debe-saber-3400383
+
+[3] "Retos para que la movilidad sostenible se proyecte como una verdadera línea de transición energética en el país". Fenalco. [Online]. Available: https://www.fenalco.com.co/blog/noticias-10/retos-para-que-la-movilidad-sostenible-se-proyecte-como-una-verdadera-linea-de-transicion-energetica-en-el-pais-2241
+
+[4] “Patineta eléctrica Velocifero Mini Mad 800 - Emove | Patinetas Eléctricas.”[Online]. Available: https://www.emove.com.co/producto/patineta-electrica-velocifero-mini-mad-800/
+
+[5] “Patineta eléctrica Velocifero Mad 1600W - Emove | Patinetas Eléctricas.” [Online]. Available: https://www.emove.com.co/producto/patineta-electrica-velocifero-mad-1600w/
+
+[6] “Patineta eléctrica Velocifero Mad 2000W - Emove | Patinetas Eléctricas.” [Online]. Available: https://www.emove.com.co/producto/patineta-electrica-velocifero-mad-2000w/
+  
