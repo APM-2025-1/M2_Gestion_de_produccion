@@ -11,7 +11,7 @@
 
 <h2>Mep Mep Raideres</h2>
 
-<h5>Joan Sebastian Arcila <br>
+<h5>Joan Sebastian Arcila Cardozo<br>
     Juan Sebastian Daleman Martinez<br>
     Daniel Santiago Muñoz Bernal<br>
     Maria Alejandra Pérez Petro<br>
@@ -214,6 +214,79 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
                     <li>Motor</li>
                 </ul>
             </td>
+        </tr>
+    </tbody>
+</table>
+
+<table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
+    <thead>
+        <tr style="background-color:rgb(109, 135, 146); text-align:center;">
+            <th>Producto</th>
+            <th>Precio</th>
+            <th>Referencia</th>
+            <th>Tienda</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Chasis</td>
+            <td>USD 625</td>
+            <td>Geofought (13/14″ aluminio + suspensión)</td>
+            <td>Geofought electric scooter</td>
+        </tr>
+        <tr>
+            <td>Chasis</td>
+            <td>USD 585</td>
+            <td>Geofought (11″ aluminio + suspensión)</td>
+            <td>Geofought electric scooter</td>
+        </tr>
+        <tr>
+            <td>Sillín y Soporte Sillín</td>
+            <td>USD 90</td>
+            <td>GoTrax Fusion sea</td>
+            <td>Fusion Electric Scooter Seat</td>
+        </tr>
+        <tr>
+            <td>Sillín y Soporte Sillín</td>
+            <td>USD 121.81</td>
+            <td>Asiento 40–55 cm ajustable</td>
+            <td>eBay</td>
+        </tr>
+        <tr>
+            <td>Rueda</td>
+            <td>USD 475</td>
+            <td>Kenda 145/70-6 para scooters 500–1200W</td>
+            <td>Alibaba</td>
+        </tr>
+        <tr>
+            <td>Rueda</td>
+            <td>USD 70</td>
+            <td>RUEDA COMPLETA MINIQUAD 16x8.00/7"</td>
+            <td>LLANTA + NEUMÁTICO MINIQUAD</td>
+        </tr>
+        <tr>
+            <td>Manubrio</td>
+            <td>USD 35</td>
+            <td>Juego completo de manillares 8in</td>
+            <td>Scooter eléctrico</td>
+        </tr>
+        <tr>
+            <td>Manubrio</td>
+            <td>USD 80</td>
+            <td>NANROBOT (D6+/N6/Lightning)</td>
+            <td>NANROBOT</td>
+        </tr>
+        <tr>
+            <td>Motor y componentes eléctricos</td>
+            <td>USD 165.60</td>
+            <td>Kit 60V 2000W BLDC + controlador</td>
+            <td>eBay</td>
+        </tr>
+        <tr>
+            <td>Motor y componentes eléctricos</td>
+            <td>USD 239.61</td>
+            <td>Kit 48V 1800W BLDC + controlador</td>
+            <td>eBay</td>
         </tr>
     </tbody>
 </table>
