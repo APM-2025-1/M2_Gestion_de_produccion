@@ -217,7 +217,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
         </tr>
     </tbody>
 </table>
-
+Cotizaciones de los diferentes productos necesarios para la producción de las Patinetas Eléctricas
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
         <tr style="background-color:rgb(109, 135, 146); text-align:center;">
@@ -293,7 +293,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 
 
 # 3. 🛂 VSM Antes de automatización
-Los productos selccionados, actualmente se ensamblan uno depues de otro en una linea secuancial. Los modulos destacados son el ensamble del chasis, el ensamble del manurio, el ensamble del sillín y el ensamble de llantas. Estas ultimas vienen depresurizadas por los que deben inflarse. posetriormente esta el modulo de ensamble completo donde se unen todos lo ensambles ya mencionados, junto a elementos que no pertenecen a un ensamble como tal, como son las luces y algunos cables.
+Los productos seleccionados, actualmente se ensamblan uno depues de otro en una linea secuancial. Los modulos destacados son el ensamble del chasis, el ensamble del manurio, el ensamble del sillín y el ensamble de llantas. Estas ultimas vienen depresurizadas por los que deben inflarse. posetriormente esta el modulo de ensamble completo donde se unen todos lo ensambles ya mencionados, junto a elementos que no pertenecen a un ensamble como tal, como son las luces y algunos cables.
 ![VSM Antes de automatización](Figs/VSM/VSM-Antes.png)
 
 Esta planta se veria de esta manera.
