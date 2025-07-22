@@ -28,6 +28,7 @@
 <details>
     <summary>🗂️ Tabla de Contenido</summary>
 
+<!-- TOC -->
 - [1. 📊 Estudio de Mercado](#1--estudio-de-mercado)
   - [1.1. 💹 Tamaño y Crecimiento del Mercado](#11--tamaño-y-crecimiento-del-mercado)
   - [1.2. 🎛️ Estimación de volumen de producción para Mep Mep Riders](#12-️-estimación-de-volumen-de-producción-para-mep-mep-riders)
@@ -77,7 +78,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
             <td style="padding: 10px; text-align: center; width:33%; vertical-align: top;">
                 <img src="Figs/Patinetas/800w-removebg-preview.png" alt="Patineta Eléctrica 800W" width="250" style="max-width:100%; height:auto;" />
                 <br>
-                <em>Figura 1: Patineta eléctrica 800W</em>
+                <em>Figura 2: Patineta eléctrica 800W</em>
             </td>
             <td style="padding: 10px; vertical-align: top; width:33%;">
                 <strong>Características Técnicas:</strong>
@@ -119,30 +120,29 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
         <tr>
-            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Trial California 1600W [5] </th>
+            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Lite Velox 800W [4]</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td style="padding: 10px; text-align: center; width:33%; vertical-align: top;">
-                <img src="Figs/Patinetas/1600w-removebg-preview.png" alt="Patineta Eléctrica 1600W" width="250" style="max-width:100%; height:auto;" />
+                <img src="Figs/Patinetas/800w-removebg-preview.png" alt="Patineta Eléctrica 800W" width="250" style="max-width:100%; height:auto;" />
                 <br>
-                <em>Figura 2: Patineta eléctrica 1600W</em>
+                <em>Figura 2: Patineta eléctrica 800W</em>
             </td>
             <td style="padding: 10px; vertical-align: top; width:33%;">
                 <strong>Características Técnicas:</strong>
                 <ul>
-                    <li><strong>Motor:</strong> 1600 W Brushless</li>
-                    <li><strong>Velocidad Máxima:</strong> Hasta 45 km/h</li>
-                    <li><strong>Autonomía:</strong> Hasta 32 km por carga</li>
-                    <li><strong>Batería:</strong> Litio-ion 48V/20Ah</li>
-                    <li><strong>Tiempo de Carga:</strong> 5-8 horas</li>
-                    <li><strong>Suspensión:</strong> Hidráulica delantera y trasera</li>
+                    <li><strong>Motor:</strong> 800 W Brushless (ubicado en la rueda trasera)</li>
+                    <li><strong>Velocidad Máxima:</strong> Hasta 30 km/h</li>
+                    <li><strong>Autonomía:</strong> Hasta 30 km por carga</li>
+                    <li><strong>Batería:</strong> Litio-ion 48V/10Ah</li>
+                    <li><strong>Tiempo de Carga:</strong> 4-6 horas</li>
                     <li><strong>Frenos:</strong> Disco mecánicos en ambas ruedas</li>
-                    <li><strong>Capacidad de Carga:</strong> Hasta 100 kg</li>
-                    <li><strong>Peso:</strong> 60 kg</li>
-                    <li><strong>Dimensiones:</strong> Largo 1320 mm, Ancho 620 mm, Altura 950 mm</li>
-                    <li><strong>Precio:</strong>$7,499,000</li>
+                    <li><strong>Capacidad de Carga:</strong> Hasta 110 kg</li>
+                    <li><strong>Peso:</strong> 33 kg</li>
+                    <li><strong>Dimensiones:</strong> Largo 1160 mm, Ancho 605 mm, Altura 1000 mm</li>
+                    <li><strong>Precio:</strong>$3,999,000</li>
                 </ul>
             </td>
             <td style="padding: 10px; vertical-align: top; width:34%;">
@@ -166,6 +166,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
         </tr>
     </tbody>
 </table>
+
 
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
