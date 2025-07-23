@@ -33,9 +33,14 @@
   - [1.1. 📈 Tamaño y Crecimiento del Mercado](#11--tamaño-y-crecimiento-del-mercado)
   - [1.2. 🏭 Estimación de Volumen de Producción](#12--estimación-de-volumen-de-producción)
 - [2. 🛵 Patientas Seleccionadass](#2--patientas-seleccionadass)
-- [3. 🛂 Antes de automatización](#3--antes-de-automatización)
-- [4. 🛂 Despues de Automatización](#4--despues-de-automatización)
-- [5. 🗃️ Referencias](#5-️-referencias)
+  - [3. 🛂 Antes de la Automatización](#3--antes-de-la-automatización)
+    - [Principales Indicadores de Desempeño:](#principales-indicadores-de-desempeño)
+  - [4. 🛂 Después de la Automatización](#4--después-de-la-automatización)
+    - [Indicadores de Desempeño Mejorados:](#indicadores-de-desempeño-mejorados)
+  - [🔍 5. Comparación Pre vs Post](#-5-comparación-pre-vs-post)
+    - [✅ Mejoras Claras](#-mejoras-claras)
+    - [⚠️ Oportunidades de Mejora](#️-oportunidades-de-mejora)
+- [6. 🗃️ Referencias](#6-️-referencias)
 
 
 
@@ -252,47 +257,130 @@ Actualmente, una empresa promedio participa con aproximadamente 6,87% del mercad
 </table>
 
 
-# 3. 🛂 Antes de automatización
-Las patinetas actualmente se ensamblan uno depues de otro en una linea secuancial. Los modulos destacados son el ensamble del chasis, el ensamble del manubrio, el ensamble del sillín y el ensamble de llantas. Estas ultimas vienen depresurizadas por los que deben inflarse. posetriormente esta el modulo de ensamble completo donde se unen todos lo ensambles ya mencionados, junto a elementos que no pertenecen a un ensamble como tal, como son las luces y algunos cables.
-![VSM Antes de automatización](Figs/VSM/VSM-Antes.png)
-
-Esta planta se veria de esta manera.
-
-![Technomatix Planta](Figs/Technomatix/Prev/PlantaPrev.jpg)
-
-![Simulación Antes](Figs/Technomatix/Prev/Statistics-Antes.jpg)
 
 
-| *KPI*                | *Descripción*                                                       | *Valor*           |
-| ---------------------- | --------------------------------------------------------------------- | ------------------- |
-| *Takt Time*          | Tiempo requerido para cumplir la demanda (min/unidad)                 | 82.05 min/patineta  |
-| *Tiempo de ciclo*    | Tiempo real de producción por unidad                                  | 135 min/patineta    |
-| *Tasa de producción* | Unidades producidas por hora                                          | 0.44 patinetas/hora |
-| *Disponibilidad (A)* | Porcentaje del tiempo disponible en que las máquinas están operativas | 80 %                |
-| *Eficiencia (E)*     | Relación entre el tiempo ideal y el real (Takt / Ciclo)               | 61 %                |
-| *Calidad (Q)*        | Porcentaje de unidades sin defectos                                   | 95 %                |
-| *OEE*                | Efectividad total del equipo (A × E × Q)                              | 46 %                |
+## 3. 🛂 Antes de la Automatización
 
-# 4. 🛂 Despues de Automatización
-Nosotros proponemos automatizar el transporte de los elementos por medio de cintas transporatadoras. Tambien se propone automatizar el suproceso de inserción del sillín con el soporte del chasis. FInalmente usar una celda robotica para el llenaod de aire de las llantas.
-Nosotros proponemos entonces una planta paralelizada. con un VSM como el que se muestra a continuación.
-![VSM Antes de automatización](Figs/VSM/VSM-Despues.png)
-Que se veria de esta forma
-![Technomatix Planta](Figs/Technomatix/Post/PlantaPost.jpg)
+Actualmente, las patinetas se ensamblan de forma secuencial en una línea de producción. Los módulos destacados del proceso son:
 
-![Simulación Antes](Figs/Technomatix/Post/Statistics-Despues.jpg)
+* Ensamble del **chasis**
+* Ensamble del **manubrio**
+* Ensamble del **sillín**
+* Ensamble de **llantas** (que llegan despresurizadas y deben ser infladas)
+* **Ensamble final**, donde se integran todos los subensambles anteriores junto con otros componentes como luces y cableado
 
-| *KPI*                | *Descripción*                                                       | *Valor*           |
-| ---------------------- | --------------------------------------------------------------------- | ------------------- |
-| *Takt Time*          | Tiempo requerido para cumplir la demanda (min/unidad)                 | 28.57 min/patineta  |
-| *Tiempo de ciclo*    | Tiempo real de producción por unidad                                  | 34.07 min/patineta  |
-| *Tasa de producción* | Unidades producidas por hora                                          | 1.76 patinetas/hora |
-| *Disponibilidad (A)* | Porcentaje del tiempo disponible en que las máquinas están operativas | 80 %                |
-| *Eficiencia (E)*     | Relación entre el tiempo ideal y el real (Takt / Ciclo)               | 84 %                |
-| *Calidad (Q)*        | Porcentaje de unidades sin defectos                                   | 95 %                |
-| *OEE*                | Efectividad total del equipo (A × E × Q)                              | 64 %                |
+<figure>
+  <img src="Figs/VSM/VSM-Antes.jpg" alt="VSM antes de la automatización">
+  <figcaption><b>Figura 3.1</b> – Mapa de Valor (VSM) del proceso de ensamblaje antes de la automatización.</figcaption>
+</figure>
 
-# 5. 🗃️ Referencias
+La distribución de planta antes de la automatización es la siguiente:
+
+<figure>
+  <img src="Figs/Technomatix/Prev/PlantaPrev.jpg" alt="Planta antes de automatización">
+  <figcaption><b>Figura 3.2</b> – Modelo de planta actual sin automatización.</figcaption>
+</figure>
+
+A continuación, se muestra la utilización de recursos en el escenario actual:
+
+<figure>
+  <img src="Figs/Technomatix/Prev/Statistics-Antes.jpg" alt="Estadísticas antes de la automatización">
+  <figcaption><b>Figura 3.3</b> – Estadísticas de utilización de recursos antes de la automatización.</figcaption>
+</figure>
+
+### Principales Indicadores de Desempeño:
+
+| **KPI**              | **Descripción**                                          | **Valor**           |
+| -------------------- | -------------------------------------------------------- | ------------------- |
+| *Takt Time*          | Tiempo necesario para cumplir la demanda (min/unidad)    | 82,05 min/patineta  |
+| *Tiempo de ciclo*    | Tiempo real de producción por unidad                     | 135 min/patineta    |
+| *Tasa de producción* | Unidades producidas por hora                             | 0,44 patinetas/hora |
+| *Disponibilidad (A)* | Porcentaje de tiempo operativo disponible                | 80 %                |
+| *Eficiencia (E)*     | Relación entre tiempo ideal y tiempo real (Takt / Ciclo) | 61 %                |
+| *Calidad (Q)*        | Porcentaje de unidades sin defectos                      | 95 %                |
+| **OEE**              | Efectividad total del equipo (A × E × Q)                 | 46 %                |
+
+---
+
+## 4. 🛂 Después de la Automatización
+
+Se propone una solución de automatización basada en tres acciones clave:
+
+* Automatización del **transporte interno** mediante bandas transportadoras
+* Uso de un robot colaborativo en el ensamble general.
+* Uso de una **celda robótica** para el inflado de llantas
+
+Esto permite migrar de una planta secuencial a una planta **paralelizada**, mejorando el flujo y reduciendo los cuellos de botella.
+
+<figure>
+  <img src="Figs/VSM/VSM-Despues.jpg" alt="VSM después de la automatización">
+  <figcaption><b>Figura 4.1</b> – Mapa de Valor (VSM) del proceso de ensamblaje después de la automatización.</figcaption>
+</figure>
+
+La disposición de planta luego de la implementación se muestra a continuación:
+
+<figure>
+  <img src="Figs/Technomatix/Post/PlantaPost.jpg" alt="Planta automatizada">
+  <figcaption><b>Figura 4.2</b> – Modelo de planta automatizada con transporte y subprocesos paralelizados.</figcaption>
+</figure>
+
+El desempeño mejorado de los recursos se observa en la siguiente gráfica:
+
+<figure>
+  <img src="Figs/Technomatix/Post/Statistics-Despues.jpg" alt="Estadísticas después de la automatización">
+  <figcaption><b>Figura 4.3</b> – Estadísticas de utilización de recursos después de la automatización.</figcaption>
+</figure>
+
+### Indicadores de Desempeño Mejorados:
+
+| **KPI**              | **Descripción**                                          | **Valor**           |
+| -------------------- | -------------------------------------------------------- | ------------------- |
+| *Takt Time*          | Tiempo necesario para cumplir la demanda (min/unidad)    | 28,57 min/patineta  |
+| *Tiempo de ciclo*    | Tiempo real de producción por unidad                     | 34,07 min/patineta  |
+| *Tasa de producción* | Unidades producidas por hora                             | 1,76 patinetas/hora |
+| *Disponibilidad (A)* | Porcentaje de tiempo operativo disponible                | 80 %                |
+| *Eficiencia (E)*     | Relación entre tiempo ideal y tiempo real (Takt / Ciclo) | 84 %                |
+| *Calidad (Q)*        | Porcentaje de unidades sin defectos                      | 95 %                |
+| **OEE**              | Efectividad total del equipo (A × E × Q)                 | 64 %                |
+
+
+
+---
+
+## 🔍 5. Comparación Pre vs Post
+A continuación se presenta una comparación entre las **estadísticas de utilización de recursos antes y después de la automatización** en la planta de ensamblaje de patinetas. Las gráficas 4.3 y 3.3 muestran cómo se distribuye el tiempo de cada estación entre trabajo efectivo ("Working") y tiempos improductivos (espera, bloqueos, fallas, etc.).
+
+
+| Estación        | Antes de la Automatización                          | Después de la Automatización                                          |
+| --------------- | --------------------------------------------------- | --------------------------------------------------------------------- |
+| **Chasis**      | \~80 % trabajando, 20 % detenido/fallado            | \~95 % trabajando, mejora significativa                               |
+| **Manubrio**    | \~35 % trabajando, alta proporción en "Failed"      | \~95 % trabajando, eficiencia muy alta                                |
+| **Sillín**      | \~30 % trabajando, gran parte en "Failed"           | \~92 % trabajando, mejora notable                                     |
+| **Llantas**     | \~65 % trabajando, con algo de "Waiting" y "Failed" | \~53 % trabajando, \~35 % esperando, indica posible cuello de botella |
+| **Ensamblaje**  | \~65 % trabajando, \~35 % detenido o en falla       | \~70 % trabajando, reducción de fallas                                |
+| **Calidad**     | \~30 % trabajando, \~70 % detenido o fallado        | \~35 % trabajando, mejora marginal                                    |
+| **Empaquetado** | \~30 % trabajando, resto detenido o fallado         | \~35 % trabajando, mejora ligera                                      |
+
+
+### ✅ Mejoras Claras
+
+* Las estaciones de **chasis**, **manubrio** y **sillín** muestran un aumento considerable en tiempo productivo, alcanzando más del 90 % de utilización.
+* Las fallas recurrentes antes de la automatización desaparecen casi por completo.
+
+### ⚠️ Oportunidades de Mejora
+
+* La **Estación de Llantas** después de la automatización presenta una alta proporción de tiempo en **"Waiting"** (\~35 %), lo cual sugiere que los tiempos de llegada o la secuencia de operación podrían estar generando un cuello de botella.
+* Las estaciones de **calidad** y **empaquetado** aún muestran una baja utilización (\~35 % en trabajo efectivo), posiblemente porque están sobredimensionadas para la nueva cadencia de producción.
+
+<br>
+
+> En conclusión, La automatización generó un **mejor aprovechamiento general de los recursos**, especialmente en las primeras etapas del proceso (pre-ensamblaje). Sin embargo, la eficiencia del sistema completo podría seguir mejorando si se optimizan las operaciones finales de control de calidad y empaquetado, que ahora parecen estar desbalanceadas respecto al resto de la línea.
+
+
+
+
+
+# 6. 🗃️ Referencias
 
 [1] “Patinetas eléctricas: El auge de la movilidad sostenible.” Liebre Naranja. [Online]. Available: https://liebrenaranja.com/patinetas-electricas-incremento-148/
   
