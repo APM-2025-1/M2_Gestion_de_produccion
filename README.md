@@ -125,7 +125,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
     <tbody>
         <tr>
             <td style="padding: 10px; text-align: center; width:33%; vertical-align: top;">
-                <img src="Figs/Patinetas/1600w-removebg-preview.png" alt="Patineta Eléctrica 1600W" width="250" style="max-width:100%; height:auto;" />
+                <img <img width="388" height="414" alt="image" src="https://github.com/user-attachments/assets/2bac9d18-1408-41c0-88fb-f807c4076e04" />
                 <br>
                 <em>Figura 2: Patineta eléctrica 500W</em>
             </td>
