@@ -119,7 +119,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
         <tr>
-            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Trial California 1600W [5] </th>
+            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Trial California 500W [5] </th>
         </tr>
     </thead>
     <tbody>
