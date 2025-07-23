@@ -70,7 +70,57 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
         <tr>
-            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Lite Velox 300W [4]</th>
+            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Lite Velox 500W [4]</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding: 10px; text-align: center; width:33%; vertical-align: top;">
+                <img <img width="388" height="414" alt="image" src="https://github.com/user-attachments/assets/2bac9d18-1408-41c0-88fb-f807c4076e04" />
+                <br>
+                <em>Figura 1: Patineta eléctrica 500W</em>
+            </td>
+            <td style="padding: 10px; vertical-align: top; width:33%;">
+                <strong>Características Técnicas:</strong>
+                <ul>
+                    <li><strong>Motor:</strong> 500 W Brushless</li>
+                    <li><strong>Velocidad Máxima:</strong> Hasta 35 km/h</li>
+                    <li><strong>Autonomía:</strong> Hasta 20-40 km por carga</li>
+                    <li><strong>Batería:</strong> Litio-ion 48V/20Ah</li>
+                    <li><strong>Tiempo de Carga:</strong> 4-6 horas</li>
+                    <li><strong>Suspensión:</strong> Hidráulica delantera y trasera</li>
+                    <li><strong>Frenos:</strong> Disco mecánicos en ambas ruedas</li>
+                    <li><strong>Capacidad de Carga:</strong> Hasta 100 kg</li>
+                    <li><strong>Peso:</strong> 28 kg</li>
+                    <li><strong>Dimensiones:</strong> Largo 1320 mm, Ancho 620 mm, Altura 950 mm</li>
+                    <li><strong>Precio:</strong>$4,199,000</li>
+                </ul>
+            </td>
+            <td style="padding: 10px; vertical-align: top; width:34%;">
+                <strong>Lista de Partes del Ensamble:</strong>
+                <ul>
+                    <li>Levas - Manilares</li>
+                    <li>Dirección</li>
+                    <li>Luz frontal</li>
+                    <li>Soportes rueda delantera</li>
+                    <li>Rueda delantera</li>
+                    <li>Partes del chasis</li>
+                    <li>Tabla</li>
+                    <li>Soporte lateral</li>
+                    <li>Rueda trasera</li>
+                    <li>Batería - Cargador</li>
+                    <li>Partes eléctricas</li>
+                    <li>Motor</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
+    <thead>
+        <tr>
+            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Trial California 800W [5]</th>
         </tr>
     </thead>
     <tbody>
@@ -78,7 +128,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
             <td style="padding: 10px; text-align: center; width:33%; vertical-align: top;">
                 <img src="Figs/Patinetas/800w-removebg-preview.png" alt="Patineta Eléctrica 800W" width="250" style="max-width:100%; height:auto;" />
                 <br>
-                <em>Figura 1: Patineta eléctrica 800W</em>
+                <em>Figura 2: Patineta eléctrica 800W</em>
             </td>
             <td style="padding: 10px; vertical-align: top; width:33%;">
                 <strong>Características Técnicas:</strong>
@@ -117,55 +167,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
     </tbody>
 </table>
 
-<table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
-    <thead>
-        <tr>
-            <th colspan="3" style="padding: 10px; text-align: center; background-color:rgb(109, 135, 146);">Patineta Eléctrica Geococcyx Trial California 800W [4]</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="padding: 10px; text-align: center; width:33%; vertical-align: top;">
-                <img src="Figs/Patinetas/800w-removebg-preview.png" alt="Patineta Eléctrica 800W" width="250" style="max-width:100%; height:auto;" />
-                <br>
-                <em>Figura 1: Patineta eléctrica 800W</em>
-            </td>
-            <td style="padding: 10px; vertical-align: top; width:33%;">
-                <strong>Características Técnicas:</strong>
-                <ul>
-                    <li><strong>Motor:</strong> 800 W Brushless (ubicado en la rueda trasera)</li>
-                    <li><strong>Velocidad Máxima:</strong> Hasta 30 km/h</li>
-                    <li><strong>Autonomía:</strong> Hasta 30 km por carga</li>
-                    <li><strong>Batería:</strong> Litio-ion 48V/10Ah</li>
-                    <li><strong>Tiempo de Carga:</strong> 4-6 horas</li>
-                    <li><strong>Frenos:</strong> Disco mecánicos en ambas ruedas</li>
-                    <li><strong>Capacidad de Carga:</strong> Hasta 110 kg</li>
-                    <li><strong>Peso:</strong> 33 kg</li>
-                    <li><strong>Dimensiones:</strong> Largo 1160 mm, Ancho 605 mm, Altura 1000 mm</li>
-                    <li><strong>Precio:</strong>$3,999,000</li>
-                </ul>
-            </td>
-            <td style="padding: 10px; vertical-align: top; width:34%;">
-                <strong>Lista de Partes del Ensamble:</strong>
-                <ul>
-                    <li>Levas - Manilares</li>
-                    <li>Dirección</li>
-                    <li>Luz frontal</li>
-                    <li>Soportes rueda delantera</li>
-                    <li>Rueda delantera</li>
-                    <li>Partes del chasis</li>
-                    <li>Tabla</li>
-                    <li>Soporte lateral</li>
-                    <li>Sillín</li>
-                    <li>Rueda trasera</li>
-                    <li>Batería - Cargador</li>
-                    <li>Partes eléctricas</li>
-                    <li>Motor</li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
+
 
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
@@ -243,9 +245,9 @@ Que se veria de esta forma
 
 [3] "Retos para que la movilidad sostenible se proyecte como una verdadera línea de transición energética en el país". Fenalco. [Online]. Available: https://www.fenalco.com.co/blog/noticias-10/retos-para-que-la-movilidad-sostenible-se-proyecte-como-una-verdadera-linea-de-transicion-energetica-en-el-pais-2241
 
-[4] “Patineta eléctrica Velocifero Mini Mad 800 - Emove | Patinetas Eléctricas.”[Online]. Available: https://www.emove.com.co/producto/patineta-electrica-velocifero-mini-mad-800/
+[4] “Patineta eléctrica Velocifero Mini Mad  500W - Emove | Patinetas Eléctricas.” [Online]. Available: https://media.autecomobility.com/recursos/marcas/catalogos-partes-marcas-2023/patineta-electrica-velocifero-plus-500-w.pdf
 
-[5] “Patineta eléctrica Velocifero Mad 1600W - Emove | Patinetas Eléctricas.” [Online]. Available: https://www.emove.com.co/producto/patineta-electrica-velocifero-mad-1600w/
+[5] “Patineta eléctrica Velocifero Mini Mad 800 - Emove | Patinetas Eléctricas.”[Online]. Available: https://www.emove.com.co/producto/patineta-electrica-velocifero-mini-mad-800/
 
 [6] “Patineta eléctrica Velocifero Mad 2000W - Emove | Patinetas Eléctricas.” [Online]. Available: https://www.emove.com.co/producto/patineta-electrica-velocifero-mad-2000w/
   
