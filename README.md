@@ -30,11 +30,11 @@
 
 <!-- TOC -->
 - [1. 📊 Estudio de Mercado](#1--estudio-de-mercado)
-  - [1.1. 💹 Tamaño y Crecimiento del Mercado](#11--tamaño-y-crecimiento-del-mercado)
-  - [1.2. 🎛️ Estimación de volumen de producción para Mep Mep Riders](#12-️-estimación-de-volumen-de-producción-para-mep-mep-riders)
-- [2. 🛵 Productos Seleccionados](#2--productos-seleccionados)
-- [3. 🛂 VSM Antes de automatización](#3--vsm-antes-de-automatización)
-- [4. 🛂 VSM Despues de Automatización](#4--vsm-despues-de-automatización)
+  - [1.1. 📈 Tamaño y Crecimiento del Mercado](#11--tamaño-y-crecimiento-del-mercado)
+  - [1.2. 🏭 Estimación de Volumen de Producción](#12--estimación-de-volumen-de-producción)
+- [2. 🛵 Patientas Seleccionadass](#2--patientas-seleccionadass)
+- [3. 🛂 Antes de automatización](#3--antes-de-automatización)
+- [4. 🛂 Despues de Automatización](#4--despues-de-automatización)
 - [5. 🗃️ Referencias](#5-️-referencias)
 
 
@@ -45,7 +45,7 @@
 
 El mercado de las patinetas eléctricas en Colombia ha experimentado un crecimiento notable en los últimos años, posicionándose como una alternativa clave en la movilidad sostenible. La aceptación de estos vehículos se debe principalmente a su rentabilidad en comparación con las motocicletas y su eficiencia para recorridos de distancias cortas a medias (10 a 45 kilómetros).
 
-## 1.1. 💹 Tamaño y Crecimiento del Mercado
+## 1.1. 📈 Tamaño y Crecimiento del Mercado
 
 
 - Volumen Anual: Se estima que el mercado colombiano de patinetas eléctricas tiene un tamaño anual aproximado de 35,000 a 40,000 unidades.
@@ -56,16 +56,47 @@ El mercado de las patinetas eléctricas en Colombia ha experimentado un crecimie
 
 - Factores Clave de Compra: Los consumidores valoran la autonomía de la batería, la velocidad, los materiales de construcción, el peso, el sistema de suspensión y el precio. Además, factores como la distancia a recorrer, las inclinaciones del terreno y el peso del usuario son determinantes al momento de la elección.
 
-## 1.2. 🎛️ Estimación de volumen de producción para Mep Mep Riders
-El significativo crecimiento y el tamaño considerable del mercado colombiano de patinetas eléctricas ofrecen una ventana de oportunidad favorable para nuevas empresas como Mep Mep Riders.
-
-De acuerdo a lo investigado, se asume un volumen del mercado actual para 2025 de aproximademente 40,000 unidades anuales. 
-
-Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeramente superior a las empresas actuales (aproximadamente 6,87% por empresa). Para ello, en el primer año se espera una participación del 5% con un crecimiento lineal del 1% anual durante 5 años.
 
 
+## 1.2. 🏭 Estimación de Volumen de Producción
 
-# 2. 🛵 Productos Seleccionados
+Con base en la información investigada, se estima que el mercado colombiano de patinetas eléctricas para el año 2025 alcanza un volumen aproximado de 35.000 unidades anuales. Este tamaño de mercado, junto con una proyección de crecimiento sostenido, representa una oportunidad estratégica para que las empresas ensambladoras inviertan en automatización como vía para escalar su capacidad productiva.
+
+Actualmente, una empresa promedio participa con aproximadamente 6,87% del mercado. Con la implementación del sistema de automatización propuesto por **Mep Mep Raiders**, se proyecta que **EMPRESA DE ENSAMBLAJE DE PATINETAS S.A.S.** incremente su producción de **1.400 unidades/año (4% del mercado)** a **4.020 unidades/año (9% del mercado)** en un plazo de **5 años**, con una **tasa de crecimiento anual en participación del 1%**.
+
+
+**Supuestos del Modelo:**
+
+* **Tamaño actual del mercado:** 35.000 unidades anuales
+* **Crecimiento del mercado:** 5% anual
+* **Crecimiento de participación de la empresa:** 1% anual
+* **Distribución esperada de ventas por modelo:**
+
+  * 500W: 50%
+  * 800W: 25%
+  * 2000W: 25%
+
+> Se asume que el modelo de **500W**, por su menor costo, tendrá la mayor demanda.
+
+---
+
+<details>
+<summary><strong>Tabla de proyecciones de ventas anuales y mensuales por modelo</strong></summary>
+
+| Año | Volumen del mercado | Participación proyectada | Ventas esperadas (anual) | Ventas esperadas (mensual) | 500W (anual) | 800W (anual) | 2000W (anual) | 500W (mensual) | 800W (mensual) | 2000W (mensual) |
+| --- | ------------------- | ------------------------ | ------------------------ | -------------------------- | ------------ | ------------ | ------------- | -------------- | -------------- | --------------- |
+| 1   | 36.750              | 5%                       | 1.838                    | 153                        | 919          | 460          | 460           | 77             | 38             | 38              |
+| 2   | 38.588              | 6%                       | 2.315                    | 193                        | 1.158        | 579          | 579           | 97             | 48             | 48              |
+| 3   | 40.517              | 7%                       | 2.836                    | 236                        | 1.418        | 709          | 709           | 118            | 59             | 59              |
+| 4   | 42.543              | 8%                       | 3.403                    | 284                        | 1.702        | 851          | 851           | 142            | 71             | 71              |
+| 5   | 44.670              | 9%                       | 4.020                    | 335                        | 2.010        | 1.005        | 1.005         | 168            | 84             | 84              |
+
+</details>
+
+
+<br> 
+
+# 2. 🛵 Patientas Seleccionadass
 
 <table border="1" style="width:100%; border-collapse: collapse; margin-bottom: 30px;">
     <thead>
@@ -76,7 +107,7 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
     <tbody>
         <tr>
             <td style="padding: 10px; text-align: center; width:33%; vertical-align: top;">
-                <img <img width="388" height="414" alt="image" src="https://imgur.com/L0X39mr.png" />
+                <img <img width="388" height="200" alt="image" src="https://imgur.com/L0X39mr.png" />
                 <br>
                 <em>Figura 1: Patineta eléctrica 500W</em>
             </td>
@@ -221,21 +252,45 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
 </table>
 
 
-# 3. 🛂 VSM Antes de automatización
-Los productos selccionados, actualmente se ensamblan uno depues de otro en una linea secuancial. Los modulos destacados son el ensamble del chasis, el ensamble del manurio, el ensamble del sillín y el ensamble de llantas. Estas ultimas vienen depresurizadas por los que deben inflarse. posetriormente esta el modulo de ensamble completo donde se unen todos lo ensambles ya mencionados, junto a elementos que no pertenecen a un ensamble como tal, como son las luces y algunos cables.
+# 3. 🛂 Antes de automatización
+Las patinetas actualmente se ensamblan uno depues de otro en una linea secuancial. Los modulos destacados son el ensamble del chasis, el ensamble del manubrio, el ensamble del sillín y el ensamble de llantas. Estas ultimas vienen depresurizadas por los que deben inflarse. posetriormente esta el modulo de ensamble completo donde se unen todos lo ensambles ya mencionados, junto a elementos que no pertenecen a un ensamble como tal, como son las luces y algunos cables.
 ![VSM Antes de automatización](Figs/VSM/VSM-Antes.png)
 
 Esta planta se veria de esta manera.
 
-![Technomatix Planta](Figs/Technomatix/Prev/PlantaPrev.png)
+![Technomatix Planta](Figs/Technomatix/Prev/PlantaPrev.jpg)
+
+![Simulación Antes](Figs/Technomatix/Prev/Statistics-Antes.jpg)
 
 
-# 4. 🛂 VSM Despues de Automatización
+| *KPI*                | *Descripción*                                                       | *Valor*           |
+| ---------------------- | --------------------------------------------------------------------- | ------------------- |
+| *Takt Time*          | Tiempo requerido para cumplir la demanda (min/unidad)                 | 82.05 min/patineta  |
+| *Tiempo de ciclo*    | Tiempo real de producción por unidad                                  | 135 min/patineta    |
+| *Tasa de producción* | Unidades producidas por hora                                          | 0.44 patinetas/hora |
+| *Disponibilidad (A)* | Porcentaje del tiempo disponible en que las máquinas están operativas | 80 %                |
+| *Eficiencia (E)*     | Relación entre el tiempo ideal y el real (Takt / Ciclo)               | 61 %                |
+| *Calidad (Q)*        | Porcentaje de unidades sin defectos                                   | 95 %                |
+| *OEE*                | Efectividad total del equipo (A × E × Q)                              | 46 %                |
+
+# 4. 🛂 Despues de Automatización
 Nosotros proponemos automatizar el transporte de los elementos por medio de cintas transporatadoras. Tambien se propone automatizar el suproceso de inserción del sillín con el soporte del chasis. FInalmente usar una celda robotica para el llenaod de aire de las llantas.
 Nosotros proponemos entonces una planta paralelizada. con un VSM como el que se muestra a continuación.
 ![VSM Antes de automatización](Figs/VSM/VSM-Despues.png)
 Que se veria de esta forma
-![Technomatix Planta](Figs/Technomatix/Post/PlantaPost.png)
+![Technomatix Planta](Figs/Technomatix/Post/PlantaPost.jpg)
+
+![Simulación Antes](Figs/Technomatix/Post/Statistics-Despues.jpg)
+
+| *KPI*                | *Descripción*                                                       | *Valor*           |
+| ---------------------- | --------------------------------------------------------------------- | ------------------- |
+| *Takt Time*          | Tiempo requerido para cumplir la demanda (min/unidad)                 | 28.57 min/patineta  |
+| *Tiempo de ciclo*    | Tiempo real de producción por unidad                                  | 34.07 min/patineta  |
+| *Tasa de producción* | Unidades producidas por hora                                          | 1.76 patinetas/hora |
+| *Disponibilidad (A)* | Porcentaje del tiempo disponible en que las máquinas están operativas | 80 %                |
+| *Eficiencia (E)*     | Relación entre el tiempo ideal y el real (Takt / Ciclo)               | 84 %                |
+| *Calidad (Q)*        | Porcentaje de unidades sin defectos                                   | 95 %                |
+| *OEE*                | Efectividad total del equipo (A × E × Q)                              | 64 %                |
 
 # 5. 🗃️ Referencias
 
