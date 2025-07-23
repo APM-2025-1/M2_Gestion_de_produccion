@@ -127,12 +127,12 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
             <td style="padding: 10px; text-align: center; width:33%; vertical-align: top;">
                 <img src="Figs/Patinetas/1600w-removebg-preview.png" alt="Patineta Eléctrica 1600W" width="250" style="max-width:100%; height:auto;" />
                 <br>
-                <em>Figura 2: Patineta eléctrica 1600W</em>
+                <em>Figura 2: Patineta eléctrica 500W</em>
             </td>
             <td style="padding: 10px; vertical-align: top; width:33%;">
                 <strong>Características Técnicas:</strong>
                 <ul>
-                    <li><strong>Motor:</strong> 1600 W Brushless</li>
+                    <li><strong>Motor:</strong> 500 W Brushless</li>
                     <li><strong>Velocidad Máxima:</strong> Hasta 45 km/h</li>
                     <li><strong>Autonomía:</strong> Hasta 32 km por carga</li>
                     <li><strong>Batería:</strong> Litio-ion 48V/20Ah</li>
