@@ -269,24 +269,30 @@ Actualmente, las patinetas se ensamblan de forma secuencial en una línea de pro
 * Ensamble de **llantas** (que llegan despresurizadas y deben ser infladas)
 * **Ensamble final**, donde se integran todos los subensambles anteriores junto con otros componentes como luces y cableado
 
-<figure>
-  <img src="Figs/VSM/VSM-Antes.jpg" alt="VSM antes de la automatización">
-  <figcaption><b>Figura 3.1</b> – Mapa de Valor (VSM) del proceso de ensamblaje antes de la automatización.</figcaption>
-</figure>
+<div align="center">
+    <figure>
+    <img src="Figs/VSM/VSM-Antes.jpg" alt="VSM antes de la automatización" width="1200px">
+    <figcaption><b>Figura 3.1</b> – Mapa de Valor (VSM) del proceso de ensamblaje antes de la automatización.</figcaption>
+    </figure>
+</div>
 
 La distribución de planta antes de la automatización es la siguiente:
 
-<figure>
-  <img src="Figs/Technomatix/Prev/PlantaPrev.jpg" alt="Planta antes de automatización">
-  <figcaption><b>Figura 3.2</b> – Modelo de planta actual sin automatización.</figcaption>
-</figure>
+<div align="center">
+    <figure>
+    <img src="Figs/Technomatix/Prev/PlantaPrev.jpg" alt="Planta antes de automatización" width="1200px">
+    <figcaption><b>Figura 3.2</b> – Modelo de planta actual sin automatización.</figcaption>
+    </figure>
+</div>
 
 A continuación, se muestra la utilización de recursos en el escenario actual:
 
-<figure>
-  <img src="Figs/Technomatix/Prev/Statistics-Antes.jpg" alt="Estadísticas antes de la automatización">
-  <figcaption><b>Figura 3.3</b> – Estadísticas de utilización de recursos antes de la automatización.</figcaption>
-</figure>
+<div align="center">
+    <figure>
+    <img src="Figs/Technomatix/Prev/Statistics-Antes.jpg" alt="Estadísticas antes de la automatización" width="1200px">
+    <figcaption><b>Figura 3.3</b> – Estadísticas de utilización de recursos antes de la automatización.</figcaption>
+    </figure>
+</div>
 
 ### Principales Indicadores de Desempeño
 
