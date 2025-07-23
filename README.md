@@ -133,16 +133,16 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
                 <strong>Características Técnicas:</strong>
                 <ul>
                     <li><strong>Motor:</strong> 500 W Brushless</li>
-                    <li><strong>Velocidad Máxima:</strong> Hasta 45 km/h</li>
-                    <li><strong>Autonomía:</strong> Hasta 32 km por carga</li>
+                    <li><strong>Velocidad Máxima:</strong> Hasta 35 km/h</li>
+                    <li><strong>Autonomía:</strong> Hasta 20-40 km por carga</li>
                     <li><strong>Batería:</strong> Litio-ion 48V/20Ah</li>
-                    <li><strong>Tiempo de Carga:</strong> 5-8 horas</li>
+                    <li><strong>Tiempo de Carga:</strong> 4-6 horas</li>
                     <li><strong>Suspensión:</strong> Hidráulica delantera y trasera</li>
                     <li><strong>Frenos:</strong> Disco mecánicos en ambas ruedas</li>
                     <li><strong>Capacidad de Carga:</strong> Hasta 100 kg</li>
-                    <li><strong>Peso:</strong> 60 kg</li>
+                    <li><strong>Peso:</strong> 28 kg</li>
                     <li><strong>Dimensiones:</strong> Largo 1320 mm, Ancho 620 mm, Altura 950 mm</li>
-                    <li><strong>Precio:</strong>$7,499,000</li>
+                    <li><strong>Precio:</strong>$4,199,000</li>
                 </ul>
             </td>
             <td style="padding: 10px; vertical-align: top; width:34%;">
@@ -156,7 +156,6 @@ Mep Mep Riders espera alcanzar una participación en el mercado del 10%, ligeram
                     <li>Partes del chasis</li>
                     <li>Tabla</li>
                     <li>Soporte lateral</li>
-                    <li>Sillín</li>
                     <li>Rueda trasera</li>
                     <li>Batería - Cargador</li>
                     <li>Partes eléctricas</li>
