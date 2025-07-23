@@ -33,11 +33,11 @@
   - [1.1. 📈 Tamaño y Crecimiento del Mercado](#11--tamaño-y-crecimiento-del-mercado)
   - [1.2. 🏭 Estimación de Volumen de Producción](#12--estimación-de-volumen-de-producción)
 - [2. 🛵 Patientas Seleccionadass](#2--patientas-seleccionadass)
-  - [3. 🛂 Antes de la Automatización](#3--antes-de-la-automatización)
-    - [Principales Indicadores de Desempeño:](#principales-indicadores-de-desempeño)
-  - [4. 🛂 Después de la Automatización](#4--después-de-la-automatización)
+- [3. 🛂 Antes de la Automatización](#3--antes-de-la-automatización)
+    - [Principales Indicadores de Desempeño](#principales-indicadores-de-desempeño)
+- [4. 🛂 Después de la Automatización](#4--después-de-la-automatización)
     - [Indicadores de Desempeño Mejorados:](#indicadores-de-desempeño-mejorados)
-  - [🔍 5. Comparación Pre vs Post](#-5-comparación-pre-vs-post)
+- [🔍 5. Comparación Pre vs Post](#-5-comparación-pre-vs-post)
     - [✅ Mejoras Claras](#-mejoras-claras)
     - [⚠️ Oportunidades de Mejora](#️-oportunidades-de-mejora)
 - [6. 🗃️ Referencias](#6-️-referencias)
@@ -259,7 +259,7 @@ Actualmente, una empresa promedio participa con aproximadamente 6,87% del mercad
 
 
 
-## 3. 🛂 Antes de la Automatización
+# 3. 🛂 Antes de la Automatización
 
 Actualmente, las patinetas se ensamblan de forma secuencial en una línea de producción. Los módulos destacados del proceso son:
 
@@ -288,7 +288,7 @@ A continuación, se muestra la utilización de recursos en el escenario actual:
   <figcaption><b>Figura 3.3</b> – Estadísticas de utilización de recursos antes de la automatización.</figcaption>
 </figure>
 
-### Principales Indicadores de Desempeño:
+### Principales Indicadores de Desempeño
 
 | **KPI**              | **Descripción**                                          | **Valor**           |
 | -------------------- | -------------------------------------------------------- | ------------------- |
@@ -302,7 +302,7 @@ A continuación, se muestra la utilización de recursos en el escenario actual:
 
 ---
 
-## 4. 🛂 Después de la Automatización
+# 4. 🛂 Después de la Automatización
 
 Se propone una solución de automatización basada en tres acciones clave:
 
@@ -344,10 +344,11 @@ El desempeño mejorado de los recursos se observa en la siguiente gráfica:
 | **OEE**              | Efectividad total del equipo (A × E × Q)                 | 64 %                |
 
 
+<br>
 
 ---
 
-## 🔍 5. Comparación Pre vs Post
+# 🔍 5. Comparación Pre vs Post
 A continuación se presenta una comparación entre las **estadísticas de utilización de recursos antes y después de la automatización** en la planta de ensamblaje de patinetas. Las gráficas 4.3 y 3.3 muestran cómo se distribuye el tiempo de cada estación entre trabajo efectivo ("Working") y tiempos improductivos (espera, bloqueos, fallas, etc.).
 
 
